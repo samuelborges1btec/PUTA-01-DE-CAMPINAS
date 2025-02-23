@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{ 
+    background-color: rgb(58, 3, 35);
+
+}
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: large;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 5%;
+}
+img {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
